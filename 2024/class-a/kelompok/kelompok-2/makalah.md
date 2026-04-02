@@ -31,10 +31,15 @@ Selain itu, kemajuan teknologi juga menimbulkan kondisi hiperrealitas, yaitu bat
 4. Mengetahui perbedaan antara teknologi sebagai mitos dan teknologi sebagai alat menggunakan pengalaman internal dan terpersonalisasi.
 
 ## BAB 2 Pembahasan
-**1. Posisi Teknologi Sebagai Mitos**
+**2.1 Posisi Teknologi Sebagai Mitos**
 
+Apabila masa lalu menganggap mitos sebagai kepercayaan suatu hal yang pasti benar dengan melibatkan dewa-dewa atau makhluk supranatural lainnya, namun pada masa sekarang menganggap mitos tetap ada dan tidak hilang, tetapi bentuknya bukan lagi dalam cerita dongeng, atau legenda, melainkan dengan menggunakan lambang-lambang masa kini, seperti sains, iklan, hingga teknologi. (Barthes, 1991). Hal ini memberikan maksud bahwa pada masa kini, teknologi telah menjadi salah satu yang dapat dipercayai manusia sebagai mitos karena teknologi telah memberikan manusia suatu kebenaran dan langsung dipercayai tanpa tau kebenarannya.
 
-revisi
+Dalam buku Techgnosis : Myth, Magic, and Mysticisnm in the Age of Information, Davis menjelaskan bahwa seperti yang kita ketahui teknologi muncul karena adanya sains dan logika modern, namun sebenarnya dibalik itu ada sesuatu unsur lain, yakni unsur kepercayaan dan spiritualitas yang tersembunyi. Manusia tidak hanya menggunakan teknologi sebagai alat yang dapat mempermudah hidup, tetapi mempercainya juga secara emosional dan eksistensial. Hal ini menunjukkan bahwa teknologi merupakan sesuatu yang didalamnya terdapat unsur-unsur simbolik dan makna.
+
+Dalam hal ini, teknologi dapat memposisikannya sebagai mitos modern dengan melihat hubungan manusia dengan teknologi di masa sekarang. Teknologi kini telah menjadi suatu makna yang membentuk cara manusia memahami kebenaran, kenyataan, bahkan dirinya sendiri. Barthes (1991), berpendapat bahwa mitos membuat sesuatu yang sebenarnya merupakan hasil buatan manusia atau konstruksi sosial terlihat seperti hal yang nyata, wajar, bahkan seolah-olah memang sudah seharusnya seperti itu, sehingga manusia cepat mempercayai dan tidak mempermasalahkan hal itu.
+
+Menurut Davis (2015), teknologi sekarang sebenarnya menghidupkan kembali cara berpikir yang mirip dengan kepercayaan dulu, hanya saja dalam bentuk yang lebih modern. Tanpa kita sadari, manusia sering memaknai teknologi secara lebih mendalam terhadap internet. Dalam hal ini, manusia tidak lagi menggunakan teknologi secara rasional, namun juga mempercayainya secara berlebihan, dan mengira bahwa teknologi dapat memberikan jawaban, keputusan, bahkan sebagai penyelamat dari berbagai masalah hidup.
 
 
 **2. Teknologi dalam Sudut Pandang Hiperrealitas**

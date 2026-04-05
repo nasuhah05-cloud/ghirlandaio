@@ -39,3 +39,7 @@ Memandang agama murni sebagai penjaga nilai moral merupaka nbentuk perwujudan re
 
 Berdasarkan analisis diatas, dapat disimpulkan bahwa hubungan antara sains dan agama bersifat kompleks namun komplementer jika ditempatkan pada proposisinya. Agama difokuskan untuk membahas pedoman moral, etika, dan makna hidup yang bersifat sakral. Sedangkan sains difokuskan pada observasi empiris untuk menjelaskan fenomena alam semesta secara faktual. keduanya beroprasi menggunakan algoritma epsitemologis yang berbeda, namun mutlak dibutuhkan untuk menjaga keseimbangan tatanan masyarakat dan kemajuan peradaban.
 
+# Referensi
+- Ahsan, dkk. (2023). "Peran Agama Sebagai Sarana Komunikasi Dalam Membangun Solidaritas Sosial: Perspektif Emile Durkheim." Jurnal Ahsan (E-Journal IAIN Manado). Halaman 12 & 82.
+- Arief, M. I. (2022). "Kebenaran absolut versus kebenaran ilmiah: Perjumpaan titik temu agama dan sains dalam perspektif Ian Barbour." Religion: Jurnal Agama, Sosial, dan Budaya, Vol 1(2). Halaman 2-4.
+- Suyanto. (2024). Filsafat Ilmu - Paradigma dan Perubahan Ilmiah di Era Modern. Repository Universitas IPWIJA. Halaman 228.

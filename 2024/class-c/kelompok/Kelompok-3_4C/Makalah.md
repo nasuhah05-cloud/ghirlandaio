@@ -127,9 +127,40 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 </p>
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Sementara itu, dalam Troublemakers of Silicon Valley, digambarkan bahwa pada awal perkembangan teknologi komputer, khususnya melalui komunitas Homebrew Computer Club pada tahun 1970-an, terdapat semangat yang sangat berbeda dari logika kapitalisme. Komunitas ini didirikan sebagai wadah bagi para penggemar komputer untuk belajar, berbagi pengetahuan, dan mengembangkan teknologi secara bersama-sama. Bagi mereka, proses menciptakan teknologi sama pentingnya dengan hasil akhirnya, dan komputer dipandang sebagai alat untuk kemanusiaan serta keadilan sosial. Nilai-nilai yang dianut oleh komunitas ini mencerminkan prinsip yang kini dikenal sebagai open source, yaitu keterbukaan, kolaborasi, dan kebebasan dalam mengakses serta memodifikasi teknologi. Mereka tidak berorientasi pada keuntungan, melainkan pada pembelajaran kolektif dan pemberdayaan masyarakat. Bahkan, komunitas ini memiliki sikap anti terhadap perusahaan besar dan monopoli, yang dianggap membatasi kebebasan dalam berbagi pengetahuan.
-<br>
+</p>
+<p align="justify">
+Namun, seiring perkembangan waktu, terjadi pergeseran dari berbagi menuju komersialisasi teknologi. Hal ini ditandai dengan munculnya kritik terhadap praktik berbagi perangkat lunas secara bebas, seperti yang disampaikan oleh Bill Gates melalui "Surat Terbuka untuk Para Penggemar Komputer," yang menegaskan bahwa perangkat lunak seharusnya dibeli, bukan disalin secara gratis. Selain itu, lahirnya perusahaan-perusahaan teknologi seperti Apple menunjukkan bahwa teknologi mulai diposisikan sebagai produk ekonomi yang dapat diperjualbelikan. Dalam konteks ini, konsep closed course mulai berkembang, dimana kode sumber perangkat lunak tidak dibuka untuk umum, dilindungi dari penyalinan, dan dikontrol oleh perusahaan. Perubahan ini mencerminkan transformasi besar dalam dunia teknologi, dari yang awalnya berbasis komunitas dan kolaborasi menjadi industri yang berorientasi pada keuntungan.
+</p>
+<p align="justify">
+Dengan menggabungkan kedua perspektif tersebut, dapat dipahami bahwa konsep open source muncul sebagai bentuk resistensi terhadap logika kapitalisme yang dijelaskan oleh Marx. Jika dalam kapitalisme teknologi dikomodifikasi dan dimanfaatkan untuk keuntungan segelintir pihak, maka open source berusaha mengembalikan teknologi sebagai milik bersama yang dapat diakses dan dikembangkan secara kolektif. Sebaliknya, closed source mencerminkan penerapan nyata dari sistem kapitalisme dalam dunia teknologi, dimana kepemilikan pribadi, kontrol, dan keuntungan menjadi aspek utama. Dengan demikian, perkembangan teknologi modern tidak dapat dilepaskan dari tarik-menarik atara nilai-nilai kolektivisme dan kapitalisme, yang masing-masing dipresentasikan oleh open source dan closed source.
+</p>
+<p align="justify">
+Sikap terhadap open source dan closed source dapat dijelaskan melalui The Big Three in Economics karya Mark Skousen, pada bagian yang membahas pemikiran John Maynard Keynes tentang mixed economy, dijelaskan bahwa tidak ada sistem ekonomi yang sepenuhnya sempurna, sehingga diperlukan keseimbangan antara pasar dan intervensi. Oleh karena itu, pendekatan yang paling relevan adalah mengombinasikan open source sebagai sarana inovasi dan kolaborasi dengan closed source sebagai mekanisme keberlanjutan ekonomi.
+</p>
 
 #### **2.6. Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
+<p align="justify">
+  
+**Kapitalisme: Adam Smith**
+</p> 
+<p align="justify">
+Smith berpendapat bahwa hambatan perdagangan menghambat kemampuan negara-negara untuk berproduksi, dan karenanya harus dihapuskan. Perluasan perdagangan antara Inggris dan Prancis, misalnya, akan memungkinkan kedua negara tersebut untuk memproleh keuntungan. "Jika negara asing dapat memasok komoditas kepada kita dengan harga lebih murah daripada yang dapat kita produksi sendiri, lebih baik membelinya dari mereka."
+</p>
+<p align="justify">
+Adam Smith dengan tegas berpendapat bahwa kunci "kekayaan bangsa" adalah produksi dan pertukaran, bukan perolehan emas dan perak. Ia menyatakan, "kekayaan suatu negara tidak hanya dari emas dan peraknya, tetapi juga tanah, rumah, dan barang-barang konsumsi dari berbagai jenis." Kekayaan seharusnya diukur berdasarkan seberapa baik orang-orang mendapatkan tempat tinggal,  pakaian, dan makanan, bukan berdasarkan jumlah karung emas di perbendaharaan." 
+</p>
+<p align="justify">
+"Dengan mengejar kepentingan pribadinya, setiap individu dipandu oleh tangan tak terlihat untuk mempromosikan kepentingan umum." Doktrin 'tangan tak terllihat' Adam Smith telah menjadi metafora populer untuk kapitalisme pasar yang bebas. Meskipun Smith hanya menggunakan istilah tersebut sekali dalam The Wealth of Nations, dan sangat jarang di tempat lain, frasa 'tangan tak terlihat' kini telah menjadi simbol bagi cara kerja ekonomi pasar serta cara kerja ilmu pengetahuan alam (Ylikoski 1995).
+</p>
+
+**Sosialisme/Kritik Kapitalisme: Karl Marx**
+</p>
+<p align="justify">
+Kemajuan mesin dan teknologi menguntungkan kaum kapitalis, tetapi tidak bagi pekerja, demikian pernyataan Marx. Mesin, misalnya, memungkinkan kaum kapitalis mempekerjakan perempuan dan anak-anak untuk mengoperasikan mesin-mesin tersebut. Hasilnya tentu saja hanya akan berupa eksploitasi yang semakin parah.
+</p>
+<p align="justify">
+Marx juga menganjurkan 'kediktatoran proletariat' yang otoriter. Ia mendukung penghapusan total kepemilikan pribadi, berdasarkan teorinya bahwa kepemilikan pribadi adalah penyebab perselisihan dan suatu bentuk perbudakan. Tanpa kepemilikan pribadi, tidak ada kebutuhan akan pertukaran, tidak ada jual beli, dan oleh karena itu Marx dan Engels menganjurkan penghapusan uang. Produksi dan konsumsi dapat terus berlanjut dan bahkan berkembang melalui perencanaan terpusat tanpa pertukaran atau mata uang.
+</p>
 
 
 ---

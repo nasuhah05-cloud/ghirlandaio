@@ -92,6 +92,7 @@ Dengan demikian, dapat disimpulkan bahwa sektor swasta telah berevolusi dari akt
 ## 2.5 Jelaskan sikap kita terhadap kode sumber terbuka atau kode sumber tertutup.
 ## 2.6 Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
 # BAB III PENUTUP
+## 3.1 KESIMPULAN
 # DAFTAR PUSTAKA
 1. KEMAJUAN TEKNOLOGI DAN POLA HIDUP MANUSIA DALAM PERSPEKTIF SOSIAL BUDAYA https://share.google/LnIzk3PnC667TCHlU
 2. The origins of the state: technology, cooperation and institutions https://www.researchgate.net/publication/347823248_The_origins_of_the_state_technology_cooperation_and_institutions 

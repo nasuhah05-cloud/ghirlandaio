@@ -25,10 +25,10 @@ Artinya: "Setiap orang mempunyai bukunya". maksudnya adalah setiap pembaca mempu
 Artinya: "Setiap buku memiliki pembaca". Maksud dari Hukum ke-3 adalah perpustakaan harus mampu menyediakan buku yang tepat bagi para pembaca. Sekilas seperti dengan hukum ke-2 namun di Hukum ke-3 lebih menekankan kepada sistem **penataan koleksi/katalogisasi**. Koleksi pada perpustakaan harus disusun secara sistematis dan terstruktur agar memudahkan sistem temu kembali buku.
 
 #### Hukum 4: *"Save The Time For The reader"*
-Artinya: "Hemat waktu untuk pembaca". maksud dari Hukum keempat ini berasal dari slogan yang terkenal di Amerika dan Inggris yaitu **"waktu adalah uang dan uang adalah waktu"**. Maksud dari hukum keempat ini adalah menekankan **efektivitas** dan **efisiensi** waktu yang digunakan oleh pembaca. Seorang pustakawan harus bisa mendesain perpustakaan agar alur pemustaka dapat berjalan secara cepat dan tepat agar waktu dapat digunakan secara efektif oleh pembaca. 
+Artinya: "Hemat waktu untuk pembaca". Hukum keempat ini berasal dari slogan yang terkenal di Amerika dan Inggris yaitu **"waktu adalah uang dan uang adalah waktu"**. Maksud dari hukum keempat ini adalah menekankan **efektivitas** dan **efisiensi waktu** yang digunakan oleh pembaca. Seorang pustakawan harus bisa mendesain perpustakaan supaya alur pemustaka dapat berjalan secara cepat dan tepat agar waktu dapat digunakan secara efektif oleh pembaca. 
 
 #### Hukum 5: *"A Library Is A Growing Organism"*
-
+Artinya: "Sebuah perpustakaan adalah organisme yang bertumbuh". Jika hukum pertama sampai keempat membahas terkait fungsi dari sebuah perpustakaan, hukum kelima memberitahu kita tentang karakteristik penting dan abadi dari sebuah perpustakaan. Karena perpustakaan adalah sebuah institusi yang terus berkembang sehingga perlu adanya penyesuaian pandangan pustakawan secara berkala mengenai sebuah perpustakaan. Maksud dari hukum kelima adalah memperlihatkan fakta bahwa perpustakaan sebagai sebuah institusi yang memiliki semua atribut sebuah organisme yang tumbuh. Analogi organisme disini adalah perpustakaan itu sendiri, perpustakaan harus bisa beradaptasi dengan perkembangan zaman, karena perpustakaan adalah sebuah institusi yang terus bertumbuh dan menyesuaikan dengan kebutuhan pembaca serta perkembangan teknologi dan informasi di dunia. 
 
 ## Kesimpulan
 

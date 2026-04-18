@@ -14,3 +14,8 @@ Di sisi lain, aspek etika atau cyberethics menjadi landasan dalam penggunaan tek
 
 Dengan demikian, hubungan antara keamanan sistem dan etika dalam layanan digital sangat erat. Keamanan sistem berperan sebagai perlindungan secara teknis, sedangkan etika menjadi pedoman dalam perilaku pengguna dan pengelola. Keduanya harus berjalan secara bersamaan agar perpustakaan dan arsip digital dapat memberikan layanan yang aman, terpercaya, dan sesuai dengan prinsip yang bertanggung jawab.
 
+## Kesimpulan
+Perkembangan perpustakaan dan arsip digital memberikan kemudahan akses informasi, tetapi juga menimbulkan risiko keamanan seperti serangan siber dan kebocoran data. Oleh karena itu, diperlukan penerapan prinsip keamanan seperti kerahasiaan, integritas, dan ketersediaan.
+Selain itu, etika siber juga penting sebagai pedoman dalam penggunaan dan pengelolaan informasi secara bertanggung jawab. Dengan demikian, keamanan sistem dan etika harus berjalan bersama agar layanan digital tetap aman dan dapat dipercaya.
+
+

@@ -31,4 +31,5 @@ Hukum ini menunjukkan bahwa perpustakaan harus terus berkembang mengikuti peruba
 
 # **KESIMPULAN**
 
+Lima Hukum Perpustakaan yang dikemukakan oleh S. R. Ranganathan masih sangat relevan di era digital sekarang ini karena prinsip dasarnya tetap sesuai dengan kebutuhan para pengguna perpustakaan, yaitu kemudahan akses, ketepatan informasi, dan efisiensi waktu. Meskipun terjadi perubahan dari koleksi fisik ke sumber digital seperti e-book dan jurnal online, fungsi utama perpustakaan tidak mengalami perubahan yang signifikan. Perpustakaan tetap berperan sebagai penyedia sekaligus penghubung antara informasi dan pengguna. Dengan dukungan teknologi, proses pencarian dan pemanfaatan informasi menjadi lebih cepat, luas, dan praktis. Oleh karena itu, Lima Hukum Perpustakaan tetap menjadi landasan penting dalam pengembangan perpustakaan modern agar mampu memberikan layanan yang efektif, relevan, dan sesuai dengan tuntutan zaman.
 

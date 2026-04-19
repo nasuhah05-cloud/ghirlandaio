@@ -18,8 +18,8 @@ Penerapan cyberethics dalam perpustakaan digital sangat penting untuk menjaga ke
 
 # Daftar Pustaka
 
-Smith, J. (2021). Cybersecurity Challenges in Digital Libraries. Journal of Digital Information Security.
+Arifin, M. M. X., Putra, P., & Syarif, V. D. P. (2025). Analisis Tingkat Keamanan Arsip Digital dalam Menghadapi Ancaman Keamanan Siber. Journal of Economic and Management (JEM), Vol. 2 No. 3.
 
-Brown, A. (2020). Privacy and Data Protection in Digital Libraries. International Journal of Library Science.
+Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024). Keamanan Informasi dan Privasi Pengguna dalam Layanan Perpustakaan Digital. Media Pustakawan, Vol. 31 No. 3.
 
-Lee, K. (2022). Digital Ethics in Library Services. Library Technology Review.
+Nurochman, A., Astuti, E. Y., & Widianingtias, S. (2024). Analisis keamanan siber sistem informasi perpustakaan di Perpustakaan Universitas Jenderal Soedirman. BACA: Jurnal Dokumentasi dan Informasi, 45(1).

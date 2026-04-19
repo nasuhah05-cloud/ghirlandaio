@@ -36,4 +36,5 @@ Lima Hukum Perpustakaan yang dikemukakan oleh S. R. Ranganathan masih sangat rel
 # **DAFTAR PUSTAKA**
 
 Makalah Kelompok 4 (2026). Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam Pengelolaan Perpustakaan serta Arsip Digital.
+
 Ranganathan, S. R. (1931). Five laws of library science. Madras: Madras Library Association.
